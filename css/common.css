@@ -17,7 +17,8 @@ body {
   list-style: none;
   display: flex;
   justify-content: center;
+  gap: 10px;
 }
 .gallery-item {
-  margin: 10px;
+  width: 400px;
 }
